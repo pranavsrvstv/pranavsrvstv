@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pranav <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Front-End developer and a beginner designer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on my **Google Search Clone** project
+- 🔭 I’m currently working on my **Netflix-Clone** project
 
-- 🌱 I’m currently learning **Nodejs and MongoDB**
+- 🌱 I’m currently learning **Firebase and Google Cloud Platform**
 
-- 👯 I’m looking to collaborate on **front-end React** projects
+- 👯 I’m looking to collaborate on **Firebase** projects
 
-- ⚡ What I like to do: **I like so much programming and music **
+- ⚡ What I like to do: **I like so much programming and reading Indian History Books **
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
