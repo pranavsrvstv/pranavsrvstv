@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on my **Netflix-Clone** project
-
 - 🌱 I’m currently learning **Firebase and Google Cloud Platform**
 
 - 👯 I’m looking to collaborate on **Firebase** projects
