@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Firebase** projects
 
-- ⚡ What I like to do: **I like problem solving and reading Indian History Books **
+- ⚡ What I like to do: I like problem solving and reading Indian History Books 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
